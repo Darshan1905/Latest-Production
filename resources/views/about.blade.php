@@ -138,15 +138,18 @@
             Luxury
           </button>
           <button class="nav-link" id="nav-third-tab" data-bs-toggle="tab" data-bs-target="#nav-third" type="button" role="tab" aria-controls="nav-third" aria-selected="false">
-            Prestige
+            Niche
           </button>
           <button class="nav-link" id="nav-fourth-tab" data-bs-toggle="tab" data-bs-target="#nav-fourth" type="button" role="tab" aria-controls="nav-fourth" aria-selected="false">
-            Popular
+            Prestige
           </button>
           <button class="nav-link" id="nav-fifth-tab" data-bs-toggle="tab" data-bs-target="#nav-fifth" type="button" role="tab" aria-controls="nav-fifth" aria-selected="false">
-            Fashion
+            Popular
           </button>
           <button class="nav-link" id="nav-sixth-tab" data-bs-toggle="tab" data-bs-target="#nav-sixth" type="button" role="tab" aria-controls="nav-sixth" aria-selected="false">
+            Fashion
+          </button>
+          <button class="nav-link" id="nav-seventh-tab" data-bs-toggle="tab" data-bs-target="#nav-seventh" type="button" role="tab" aria-controls="nav-seventh" aria-selected="false">
             Lifestyle
           </button>
         </div>
