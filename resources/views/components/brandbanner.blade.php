@@ -62,7 +62,7 @@ $(".slidercard8").owlCarousel({
     autoplay: true,
     autoplayTimeout: 2000,
     autoplayHoverPause: true,
-    //navText: [prevIcon, nextIcon],//
+    navText: [prevIcon, nextIcon],
 
     responsive: {
         0: {
