@@ -171,7 +171,7 @@
                 <h5>Maison des parfums</h5>
                 <hr />
                 <p><b>(1)</b>&nbsp; PALLADIUM MUMBAI
-                  ,F-15A, 1st Floor, Palladium Mall, Lower Parel,Mumbai - 400013</p>
+                  ,F-30, 1st Floor, Palladium Lower Parel, Mumbai-400013</p>
 
                 <p><b>(2)</b> &nbsp;JIO WORLD DRIVE
                   ,F-32, 1st Floor, Jio World Drive Mall, Bandra Kurla Complex, Bandra East, Mumbai - 400051</p>
