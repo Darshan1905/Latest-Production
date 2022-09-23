@@ -47,7 +47,10 @@
     integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://use.fontawesome.com/abfdd2ac1e.js"></script>
-<script>
+
+
+
+<!--<script>
 const nextIcon = '<img class="iconnext" src="./pictures/right.svg">';
 const prevIcon = '<img class="iconprev" src="./pictures/left.svg">';
 
@@ -73,7 +76,13 @@ $(".slidercard8").owlCarousel({
         },
     },
 });
-</script>
+</script>-->
+
+
+
+
+
+
 <script>
 $(".slidercardbrand").owlCarousel({
     loop: true,
