@@ -287,7 +287,14 @@
             
             
             
-            
+            <div class="dot dot-26"><img src="/pictures/bcpl/beauty scentiments.svg" />
+              <span class="tooltiptext p-2">
+                <h5>Beauty Scentiments</h5>
+                <hr />
+                <p>Ambuja Mall Ground Floor Ambuja City Centre Vidhan Sabha Road Raipur 492007.
+                </p>
+              </span>
+            </div>
             
             
             
