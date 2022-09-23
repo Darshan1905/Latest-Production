@@ -57,6 +57,63 @@ crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://use.fontawesome.com/abfdd2ac1e.js"></script>
 
 
+<script>
+const nextIcon = '<img class="iconnext" src="./pictures/right.svg">';
+const prevIcon = '<img class="iconprev" src="./pictures/left.svg">';
+
+$(".slidercard8").owlCarousel({
+    loop: true,
+    margin: 10,
+    dots: false,
+    nav: true,
+    autoplay: true,
+    autoplayTimeout: 2000,
+    autoplayHoverPause: true,
+   //navText: [prevIcon, nextIcon],
+
+    responsive: {
+        0: {
+            items: 2,
+        },
+        600: {
+            items: 3,
+        },
+        1000: {
+            items: 6,
+        },
+    },
+});
+</script>
+
+
+
+<script>
+$(".slidercardbrand").owlCarousel({
+    loop: true,
+    margin: 10,
+    dots: false,
+    nav: true,
+    autoplay: true,
+    autoplayTimeout: 2000,
+    autoplayHoverPause: true,
+    //navText: [prevIcon, nextIcon],
+
+    responsive: {
+        0: {
+            items: 1,
+        },
+        600: {
+            items: 1,
+        },
+        1000: {
+            items: 1,
+        },
+    },
+});
+</script>
+
+
+
 
 
 
