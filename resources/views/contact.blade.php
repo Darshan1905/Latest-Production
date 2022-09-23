@@ -291,7 +291,7 @@
               <span class="tooltiptext p-2">
                 <h5>Beauty Scentiments</h5>
                 <hr />
-                <p>Bs Jalandhar Opp Desh Bhagat Yaadgaar Halls MBC Chowk MBD Neopolis Civil Line Jalandhar 144001.
+                <p>BS Jalandhar Opp Desh Bhagat Yaadgaar Halls MBC Chowk MBD Neopolis Civil Line Jalandhar 144001.
                 </p>
               </span>
             </div>
