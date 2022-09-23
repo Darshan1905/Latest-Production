@@ -819,10 +819,10 @@
               <div class="item">
                 <div class="card text-white brand-tab-img">
                   <figure>
-                    <img src="pictures/Luxury/Bvlgari.jpg" width="100%" alt="" />
+                    <img src="pictures/Niche/Evelom.jpg" width="100%" alt="" />
                   </figure>
                 </div>
-                <img src="pictures/Luxury/Logo/Bvlgari.png" class="mb-4" width="60%" alt="" />
+                <img src="pictures/Niche/Logo/Evelom.png" class="mb-4" width="60%" alt="" />
               </div>
               
               
