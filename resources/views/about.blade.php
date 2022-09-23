@@ -155,6 +155,10 @@
         </div>
       </nav>
       <div class="tab-content" id="nav-tabContent">
+        
+        
+        
+        
         <div class="tab-pane fade " id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
           <div class="container mt-3 pb-3">
 
@@ -704,11 +708,13 @@
 
             </div>
           </div>
-
-
-
-
         </div>
+        
+        
+        
+        <!-- Luxury Image Code Starts here -->
+        
+        
         <div class="tab-pane fade show active" id="nav-second" role="tabpanel" aria-labelledby="nav-second-tab">
 
 
@@ -793,11 +799,49 @@
 
                 <img src="pictures/Luxury/Logo/Salvatore-Ferragamo.png" class="mb-4" width="60%" alt="" />
               </div>
+              
             </div>
           </div>
         </div>
+        
+        <!-- Luxury Image Code Ends here -->
+        
+        
+        
+        
+        <!-- Niche Image Code Starts here -->
+        <div class="tab-pane fade show active" id="nav-third" role="tabpanel" aria-labelledby="nav-third-tab">
 
-        <div class="tab-pane fade" id="nav-third" role="tabpanel" aria-labelledby="nav-third-tab">
+          <div class="container mt-3 pb-3">
+
+            <div class="owl-carousel owl-theme slidercard8">
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Luxury/Bvlgari.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Luxury/Logo/Bvlgari.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              
+              
+            </div>
+          </div>
+        </div>
+        
+        <!-- Niche Image Code Starts here -->
+        
+        
+        
+        
+        
+        
+        
+        <!-- Prestige Image Code Starts here -->
+
+        <div class="tab-pane fade" id="nav-fourth" role="tabpanel" aria-labelledby="nav-fourth-tab">
           <div class="container mt-3 pb-3">
 
             <div class="owl-carousel owl-theme slidercard8">
@@ -925,7 +969,15 @@
             </div>
           </div>
         </div>
-        <div class="tab-pane fade" id="nav-fourth" role="tabpanel" aria-labelledby="nav-fourth-tab">
+       
+       <!-- Prestige Image Code Ends here -->
+       
+       
+       
+       
+       <!-- Popular Image Code Starts here -->
+       
+       <div class="tab-pane fade" id="nav-fifth" role="tabpanel" aria-labelledby="nav-fifth-tab">
           <div class="container mt-3 pb-3">
 
             <div class="owl-carousel owl-theme slidercard8">
@@ -1132,8 +1184,17 @@
           </div>
         </div>
 
-
-        <div class="tab-pane fade" id="nav-fifth" role="tabpanel" aria-labelledby="nav-fifth-tab">
+    <!-- Popular Image Code Ends here -->
+       
+       
+       
+       
+       
+       
+     <!-- Fashion Image Code Starts here -->  
+       
+       
+       <div class="tab-pane fade" id="nav-sixth" role="tabpanel" aria-labelledby="nav-sixth-tab">
           <div class="container mt-3 pb-3">
 
             <div class="owl-carousel owl-theme slidercard8">
@@ -1215,17 +1276,21 @@
 
                 <img src="pictures/Fashion/Logo/Betty-Barclay.png" class="mb-4" width="60%" alt="" />
               </div>
-
-
-
-
             </div>
           </div>
         </div>
 
+    <!-- Fashion Image Code Ends here -->
 
-
-        <div class="tab-pane fade" id="nav-sixth" role="tabpanel" aria-labelledby="nav-sixth-tab">
+        
+        
+        
+        
+        
+        
+     <!-- Lifestyle Image Code Starts here -->   
+        
+        <div class="tab-pane fade" id="nav-seventh" role="tabpanel" aria-labelledby="nav-seventh-tab">
           <div class="container mt-3 pb-3">
 
             <div class="owl-carousel owl-theme slidercard8">
@@ -1310,6 +1375,9 @@
             </div>
           </div>
         </div>
+        
+        <!-- Lifestyle Image Code Starts here -->
+        
 
     </section>
 
