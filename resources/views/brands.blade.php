@@ -117,7 +117,7 @@
     </div>
 
 
-   
+   <x-brandbanner />
 
 
     <div class="container-fluid text-center mt-5">
