@@ -25,7 +25,13 @@
                 <h1>Our Brands</h1>
             </div>
             <div class="b-child col-lg-6 col-md-6 ">
+            
+            
+            
                 <div class="owl-carousel owl-theme slidercardbrand">
+                
+                
+                
                     <div class="item p-4">
                         <img src="pictures/brand-bb1.png" alt="" />
                     </div>
