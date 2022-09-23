@@ -297,6 +297,16 @@
             </div>
             
             
+            <div class="dot dot-27"><img src="/pictures/bcpl/beauty scentiments.svg" />
+              <span class="tooltiptext p-2">
+                <h5>Beauty Scentiments</h5>
+                <hr />
+                <p>BS Nashik City Mall Upper Ground Floor Sambhaji Chowk Law Gate Nagar Untwadi Nashik 422002.
+                </p>
+              </span>
+            </div>
+            
+            
             
             
             
