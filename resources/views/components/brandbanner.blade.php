@@ -46,7 +46,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"
     integrity="sha512-bPs7Ae6pVvhOSiIcyUClR7/q2OAsRiovw4vAkX+zJbw3ShAeeqezq50RIIcIURq7Oa20rW2n2q+fyXBNcU9lrw=="
     crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-//<script src="https://use.fontawesome.com/abfdd2ac1e.js"></script>
+    <script src="https://use.fontawesome.com/abfdd2ac1e.js"></script>
 
 
 
@@ -58,7 +58,7 @@ $(".slidercard8").owlCarousel({
     loop: true,
     margin: 10,
     dots: false,
-    nav: true,
+    nav: false,
     autoplay: true,
     autoplayTimeout: 2000,
     autoplayHoverPause: true,
