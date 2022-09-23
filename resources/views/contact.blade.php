@@ -274,6 +274,34 @@
                 </p>
               </span>
             </div>
+            
+            
+             <div class="dot dot-25"><img src="/pictures/bcpl/beauty scentiments.svg" />
+              <span class="tooltiptext p-2">
+                <h5>Beauty Scentiments</h5>
+                <hr />
+                <p>Ambuja Mall Ground Floor Ambuja City Centre Vidhan Sabha Road Raipur 492007.
+                </p>
+              </span>
+            </div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
             <div class="dot dot-13"><img src="/pictures/bcpl/warehouse.svg" />
               <span class="tooltiptext p-2">
                 <h5 style="padding-top: 12px;">Warehouse</h5>
