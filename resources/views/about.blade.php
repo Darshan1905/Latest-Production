@@ -825,6 +825,82 @@
                 <img src="pictures/Niche/Logo/Evelom.png" class="mb-4" width="60%" alt="" />
               </div>
               
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/Margys.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/Margys.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/MZSkin.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/MZSkin.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/Orlane.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/Orlane.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/PhilipB.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/PhilipB.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/Sachajuan.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/Sachajuan.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/Swissperfection.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/Swissperfection.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/Verso.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/Verso.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
+              
+              <div class="item">
+                <div class="card text-white brand-tab-img">
+                  <figure>
+                    <img src="pictures/Niche/Caviar.jpg" width="100%" alt="" />
+                  </figure>
+                </div>
+                <img src="pictures/Niche/Logo/Caviar.png" class="mb-4" width="60%" alt="" />
+              </div>
+              
               
               
             </div>
