@@ -51,18 +51,18 @@
 
 
 <script>
-/*const nextIcon = '<img class="iconnext" src="./pictures/right.svg">';
-const prevIcon = '<img class="iconprev" src="./pictures/left.svg">';*/
+const nextIcon = '<img class="iconnext" src="./pictures/right.svg">';
+const prevIcon = '<img class="iconprev" src="./pictures/left.svg">';
 
 $(".slidercard8").owlCarousel({
     loop: true,
     margin: 10,
     dots: false,
-    nav: false,
+    nav: true,
     autoplay: true,
     autoplayTimeout: 2000,
     autoplayHoverPause: true,
-   // navText: [prevIcon, nextIcon],
+    navText: [prevIcon, nextIcon],
 
     responsive: {
         0: {
@@ -83,27 +83,4 @@ $(".slidercard8").owlCarousel({
 
 
 
-<script>
-$(".slidercardbrand").owlCarousel({
-    loop: true,
-    margin: 10,
-    dots: false,
-    nav: true,
-    autoplay: true,
-    autoplayTimeout: 2000,
-    autoplayHoverPause: true,
-    //navText: [prevIcon, nextIcon],
 
-    responsive: {
-        0: {
-            items: 1,
-        },
-        600: {
-            items: 1,
-        },
-        1000: {
-            items: 1,
-        },
-    },
-});
-</script>
