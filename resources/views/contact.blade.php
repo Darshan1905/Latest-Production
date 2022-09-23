@@ -118,7 +118,8 @@
         <div id="map">
           <div class=" mt-3">
             <!--<img src="/pictures/bcpl/map bcpl.png" width="100%" alt="Map">-->
-            <img src="/pictures/bcpl/map-bcpl-101.png" width="100%" alt="Map">
+            <!--<img src="/pictures/bcpl/map-bcpl-101.png" width="100%" alt="Map">-->
+            <img src="/pictures/bcpl/BCPL-map-latest-.png" width="100%" alt="Map">
           </div>
           <div id="dots">
             <div class="dot dot-1"><img src="/pictures/bcpl/warehouse.svg" />
