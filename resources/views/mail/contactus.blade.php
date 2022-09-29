@@ -11,7 +11,7 @@ Hello, This mail from contact us {{ config('app.name') }} Bot.
 @php
     $btn=$data['email'];
 @endphp
-@component('mail::button', ['url' => "mailto:care@bcplindia.com".$btn])
+@component('mail::button', ['url' => "mailto:".$btn])
 Mail To user
 @endcomponent
 
