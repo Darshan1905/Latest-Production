@@ -912,7 +912,7 @@
         
         
         <!-- Niche Image Code Starts here -->
-        <div class="tab-pane fade show active" id="nav-third" role="tabpanel" aria-labelledby="nav-third-tab">
+        <div class="tab-pane fade show" id="nav-third" role="tabpanel" aria-labelledby="nav-third-tab">
 
           <div class="container mt-3 pb-3">
 
