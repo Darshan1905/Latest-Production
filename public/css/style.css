@@ -1305,6 +1305,10 @@ input[type=checkbox] {
     font-size: 23.6px;
 }
 
+.mdb-img img{
+    width: 100%;
+}
+
 .cmain .row .mdata {
     display: inline-block;
     text-align: left;
@@ -1402,6 +1406,14 @@ input[type=checkbox] {
         font-family: montserrat, sans-serif !important;
         font-size: 22px;
     }
+
+    
+.mdb-img img{
+    width: 50% ;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
 
     .heading {
         font-size: 30px;

@@ -120,8 +120,8 @@
 
 <div class="container mt-5">
   <div class="row">
-    <div class="col-md-4">
-      <img src="pictures/maisonperfumes.svg" width="100%" alt="" />
+    <div class="col-md-4 mdb-img">
+      <img src="pictures/maisonperfumes.svg"  alt="" />
     </div>
     <div class="col-md-8 mt-5">
       <p style="text-align: justify;">
