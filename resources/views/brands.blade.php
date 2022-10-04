@@ -818,8 +818,8 @@
                 <!----- Niche Images Starts Here ------->
                 
                 
-                <div class="tab-pane fade show active" id="nav-niche" role="tabpanel" aria-labelledby="nav-niche-tab">
-	<div class="container mt-4 mb-4">
+     <div class="tab-pane fade show" id="nav-niche" role="tabpanel" aria-labelledby="nav-niche-tab">
+	    <div class="container mt-4 mb-4">
 		<div class="row">
 			
 
