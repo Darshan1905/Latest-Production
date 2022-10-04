@@ -124,11 +124,11 @@
         <section id="tabs">
             <nav>
                 <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                    <button class="nav-link " id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home"
+                    <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home"
                         type="button" role="tab" aria-controls="nav-home" aria-selected="false">
                         ALL
                     </button>
-                    <button class="nav-link active" id="nav-luxury-tab" data-bs-toggle="tab"
+                    <button class="nav-link " id="nav-luxury-tab" data-bs-toggle="tab"
                         data-bs-target="#nav-luxury" type="button" role="tab" aria-controls="nav-luxury"
                         aria-selected="true">
                         Luxury
