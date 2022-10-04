@@ -72,12 +72,11 @@
     </div>
   </div>
 </div>
+</div>
+</nav>
+</div>
 
 
-
-                            </div>
-            </nav>
-        </div>
         <div class="secondnav">
             <nav class="navbar navbar-expand-xm navbar-light p-md-3">
                 <div class="container">
@@ -117,7 +116,21 @@
     </div>
 
 
+
+
+<!-- Banner Srunk Code Starts Here -->
+
    <x-brandbanner />
+
+
+<!-- Banner Srunk Code Ends Here -->
+
+
+
+
+
+
+    <!-- Carausal Navigation Coder Starts Here  -->
 
 
     <div class="container-fluid text-center mt-5">
@@ -158,8 +171,17 @@
                     </button>
                 </div>
             </nav>
+            
+            <!-- Carausal navigation Code Ends Here -->
+            
+            
+            
+            
+            
+            <!-- All Images Starts Here -->
+            
             <div class="tab-content" id="nav-tabContent">
-                <div class="tab-pane fade " id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+                <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                     <div class="container mt-4 mb-4">
                         <div class="row">
                         <div class="col-md-3 col-sm-6">
@@ -642,9 +664,6 @@
 
                                 <img src="pictures/Fashion/Logo/s.Oliver.png" class="mb-4" width="70%" alt="" />
                             </div>
-                            
-                           
-                          
                           
                             <div class="col-md-3 col-sm-6">
                                 <div class="card text-white brand-tab-img">
@@ -714,20 +733,21 @@
 
                                 <img src="pictures/Lifestyle/Logo/Yankee-Candles.png" class="mb-4" width="70%" alt="" />
                             </div>
-                           
-
-                            
                         </div>
                     </div>
                 </div>
                 
+                <!-- All Images Ends here -->
+                
+                
+                
                 
                 
 
                 
+               <!-- Luxury Images Starts Here -->
                 
-                
-                <div class="tab-pane fade show active" id="nav-luxury" role="tabpanel" aria-labelledby="nav-luxury-tab">
+                <div class="tab-pane fade " id="nav-luxury" role="tabpanel" aria-labelledby="nav-luxury-tab">
                     <div class="container mt-4 mb-4">
                         <div class="row">
                             <div class="col-md-3 col-sm-6">
@@ -813,12 +833,19 @@
                 </div>
                 
                 
+               <!-- Luxury Images Ends Here --> 
+               
+               
+               
+               
+               
+               
+               
+                
+      <!-- Niche Images Starts Here -->
                 
                 
-                <!----- Niche Images Starts Here ------->
-                
-                
-     <div class="tab-pane fade show" id="nav-niche" role="tabpanel" aria-labelledby="nav-niche-tab">
+     <div class="tab-pane fade " id="nav-niche" role="tabpanel" aria-labelledby="nav-niche-tab">
 	    <div class="container mt-4 mb-4">
 		<div class="row">
 			
@@ -911,7 +938,6 @@
 				</div>
 					<img src="pictures/Niche/Logo/Caviar.png" class="mb-4" width="70%" alt="" />
 			</div>
-			
 
 			
 		</div>
@@ -919,11 +945,15 @@
 </div>
 
                 
-                <!----- Niche Images Ends Here ------->
+                <!-- Niche Images Ends Here -->
                 
-                
-                
-                
+                 
+                 
+                 
+                 
+                 
+                 
+                <!-- Pretige Images Starts Here -->
                 
                 <div class="tab-pane fade" id="nav-prestige" role="tabpanel" aria-labelledby="nav-prestige-tab">
                     <div class="container mt-4 mb-4">
@@ -1052,6 +1082,15 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- Prestige Images Ends here -->
+                
+                
+                
+                
+                
+                <!-- Popular Images Starts Here -->
+                
                 <div class="tab-pane fade" id="nav-popular" role="tabpanel" aria-labelledby="nav-popular-tab">
                     <div class="container mt-4 mb-4">
                         <div class="row">
@@ -1258,6 +1297,16 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- Popular Images Ends Here -->
+                
+                
+                
+                
+                
+                
+                <!-- Fahion Images Starts Here -->
+                
                 <div class="tab-pane fade" id="nav-fashion" role="tabpanel" aria-labelledby="nav-fashion-tab">
                     <div class="container mt-4 mb-4">
                         <div class="row">
@@ -1331,6 +1380,16 @@
                         </div>
                     </div>
                 </div>
+                
+                
+                <!-- Fahion Images Ends Here -->
+                
+                
+                
+                
+                
+                <!-- Lifestyle Images ends Here -->
+                
                 <div class="tab-pane fade" id="nav-lifestyle" role="tabpanel" aria-labelledby="nav-lifestyle-tab">
                     <div class="container mt-4 mb-4">
                         <div class="row">
@@ -1414,6 +1473,14 @@
                         </div>
                     </div>
                 </div>
+                
+                <!-- Lifestyle Image Ends Here -->
+                
+                
+                
+                
+                
+                
             </div>
         </section>
     </div>
