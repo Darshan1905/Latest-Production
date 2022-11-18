@@ -121,7 +121,7 @@
 <div class="container mt-5">
   <div class="row">
     <div class="col-md-4 mdb-img">
-      <img src="pictures/maisonperfumes.svg"  alt="" />
+      <img src="pictures/Maison-De-Parfums.jpg"  alt="" />
     </div>
     <div class="col-md-8 mt-5">
       <p style="text-align: justify;">
