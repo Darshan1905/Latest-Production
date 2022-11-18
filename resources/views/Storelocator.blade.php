@@ -176,7 +176,7 @@
 
                         <p><b>PALLADIUM MUMBAI</b></p>
 
-                        <p>F-15A, 1st Floor, Palladium Mall, Lower Parel, Mumbai - 400013</p>
+                        <p>F-30, 1st Floor, Palladium Lower Parel, Mumbai-400013</p>
 
                         <p> <b>JIO WORLD DRIVE</b></p>
 
