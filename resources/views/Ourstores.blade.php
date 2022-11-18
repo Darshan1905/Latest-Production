@@ -124,10 +124,12 @@ Being the ﬁrst of its kind concept in India, Maison Des Parfums caters to the 
 The boutique provides a unique shopping experience with bespoke in-store service and attention to detail to engage each & every customer.  
 The ﬂagship Maison Des Parfums boutique was inaugurated in Select Citywalk, New Delhi closely followed by the second presence at Palladium, Mumbai, 
 and recently launched our flagship store in Jio World Drive, Mumbai.
+<br>
 The concept stores bring together exceptional top-quality niche brands under one roof with an expanding brand portfolio comprising some of the most 
 exciting names in the world of artisanal perfumery including: Acqua di Parma, Amouage, Amouroud, Atelier Des Ors, Blend Oud, BOIS 1920, Bond No. 9, 
 Etat Libre D' Orange, ETRO, Franck Boclet, Goutal Paris, Houbigant, Intio Parfum Prives, Juliette Has A Gun, Liquides Imaginaires, Kilian Paris, Memo Paris, 
 Moresque, Nasomatto, Nishane, Olfactive Studio, One of Those, Orto Parisi, Parfums De Marly, Perris Monte Carlo, Rancé 1795 and Xerjoff as well as many other well-known brands.
+<br>
 Maison Des Parfums presents a diverse range of Male, Female and Unisex fragrances and is set to make fragrances a  performance art - ”With each bottle of artisanal perfume narrating its own indulging scent story”.
 
         </p>
