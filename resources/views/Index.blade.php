@@ -68,7 +68,7 @@
                 
                 <!--<source src="video/tomp3.cc - Beauty Concept Corporate Video_360p.mp4" type="video/mp4" />-->
                 
-                <source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/_YwTQWX0KbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" type="video/mp4" />
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/_YwTQWX0KbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                 
             </video>
 
