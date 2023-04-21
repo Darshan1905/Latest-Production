@@ -61,14 +61,16 @@
 
             <!-- The HTML5 video element that will create the background video on the header -->
             
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/_YwTQWX0KbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             
-            <!--<video playsinline="playsinline" id="myVideo" autoplay muted preload="yes" loop="loop" class="video-js"
+            
+            <video playsinline="playsinline" id="myVideo" autoplay muted preload="yes" loop="loop" class="video-js"
                 data-setup='{"autoplay":"any"}'>
                 
-                <source src="video/tomp3.cc - Beauty Concept Corporate Video_360p.mp4" type="video/mp4" />
+                <!--<source src="video/tomp3.cc - Beauty Concept Corporate Video_360p.mp4" type="video/mp4" />-->
                 
-            </video>-->
+                <source src="<iframe width="560" height="315" src="https://www.youtube.com/embed/_YwTQWX0KbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>" type="video/mp4" />
+                
+            </video>
 
             <!-- The header content -->
             <div class="container-fluid headercontainer">
