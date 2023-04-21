@@ -65,8 +65,8 @@
             
             <video playsinline="playsinline" id="myVideo" autoplay muted preload="yes" loop="loop" class="video-js"
                 data-setup='{"autoplay":"any"}'>
-                
-                <source src="video/tomp3.cc - Beauty Concept Corporate Video_360p.mp4" type="video/mp4" />
+              <!--<source src="video/tomp3.cc - Beauty Concept Corporate Video_360p.mp4" type="video/mp4" />-->
+                <source src="video/Beauty_Concept_V12.mp4" type="video/mp4" />
                 
                 
                 
