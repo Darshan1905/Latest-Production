@@ -170,7 +170,24 @@ Maison Des Parfums presents a diverse range of Male, Female and Unisex fragrance
           Accessories under one umbrella. With the aim to make luxury accessible to the Indian customer, we
           are available in multiple stores all over the subcontinent.
         </p>
-        <!-- <div class="row maisoncontent ">
+
+         <div class="row maisoncontent ">
+          <div class="main">
+            <div class="child">
+              <p class="maisontext"> To know more please connect to our website :
+              </p>
+            </div>
+            <div class="child">
+              <a href="https://beauteluxe.in/" target="_blank"> <button class="maisonbtn">Beaute Luxe</button>
+              </a>
+            </div>
+          </div>
+
+        </div>          
+          
+          
+
+<!-- <div class="row maisoncontent ">
           <div class="main">
             <div class="child">
               <p class="maisontext"> To know more please connect to our website :
