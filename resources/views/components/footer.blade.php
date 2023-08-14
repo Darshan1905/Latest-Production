@@ -8,7 +8,8 @@
               <p class="mt-5 afterlogo">
                 Vardaan 403 25A, Camac Street <br />
                 Kolkata- 700016, India <br />
-                ph: +91-33-2287-2358
+                <!--ph: +91-33-2287-2358-->
+                 Ph: +91-3340087242 
               </p>
             </div>
             <div class="col-md-4 col-sm-6">
